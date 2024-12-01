@@ -1,6 +1,3 @@
-# Data-Preparation-Analysis
-
-
 # Cab Data Analysis: Streamlining Transportation
 
 This repository contains code and resources for analyzing Uber and Lyft ride-sharing data to uncover pricing strategies, identify patterns, and propose actionable insights. By leveraging data visualization, unsupervised learning, and predictive modeling, this project aims to enhance understanding and forecasting in the transportation industry.
@@ -53,7 +50,3 @@ This repository contains code and resources for analyzing Uber and Lyft ride-sha
 
 **Professor:** Oleksandr Narykov, Illinois Institute of Technology  
 **Course:** CSP 571 - Data Preparation and Analysis
-
-## Repository Link
-
-[GitHub: Data Preparation and Analysis](https://github.com/PratimaYadav22/Data-Preparation-Analysis)
